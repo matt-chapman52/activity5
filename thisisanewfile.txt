@@ -1,2 +1,4 @@
 welcome to the new file.
 today is thursday.
+and tomorrow is friday!
+
